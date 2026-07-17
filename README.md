@@ -1,6 +1,6 @@
 # Minimal AI Meeting Assistant
 
-An open-source minimal AI Meeting Assistant built as a practical development project for MeetingNotesAI.org.
+An open-source minimal AI Meeting Assistant built as a practical development project for [https://aimeetingassistants.org/](https://aimeetingassistants.org/).
 
 ## Project Goal
 
